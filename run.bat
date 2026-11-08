@@ -1,1 +1,3 @@
-cd bin && Host.exe && cd ..
+cd bin
+Host.exe
+cd ..
