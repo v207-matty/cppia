@@ -1,0 +1,4 @@
+-cp src/host
+-main Host
+-cpp bin
+-D scriptable

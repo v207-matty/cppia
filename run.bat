@@ -1,0 +1,1 @@
+cd bin && Host.exe && cd ..
